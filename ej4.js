@@ -1,0 +1,1 @@
+/* 4. Crear una función que calcule la edad de los perros, considerando que 1 año para nosotros son 7 de ellos. */
